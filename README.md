@@ -8,7 +8,7 @@
 
 # Demo網站
 
-https://lemoncat0817.github.io/Vue3-RabbitShop/
+因API使用http而非https所以再使用上務必開啟允許不安全的內容https://lemoncat0817.github.io/Vue3-RabbitShop/
 
 # 功能特色
 
